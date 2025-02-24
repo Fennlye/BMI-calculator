@@ -15,7 +15,7 @@ A simple **Body Mass Index (BMI) Calculator** built with **Laravel** and **Boots
 
 ### **1. Clone the repository**
 ```sh
-git clone https://github.com/your-username/bmi-calculator.git
+git clone https://github.com/Fennlye/BMI-calculator.git
 cd bmi-calculator
 ```
 
